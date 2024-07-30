@@ -1,0 +1,2 @@
+# datagaze.com
+datagaze.uz
